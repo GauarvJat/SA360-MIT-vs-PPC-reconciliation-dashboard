@@ -11,12 +11,19 @@ The objective of this project was to automate the validation process and provide
 Solution
 
 A combination of Python, VBA, Excel, SQL, and Power BI was used to:
+
 •	Extract and process media platform reports.
+
 •	Retrieve reporting data from Databricks SQL.
+
 •	Compare source platform metrics with dashboard metrics.
+
 •	Identify discrepancies based on predefined validation rules.
+
 •	Generate reports for investigation and stakeholder review.
+
 •	Visualize QA results through interactive Power BI dashboards.
+
 
 Data Sources Media Platforms
 
