@@ -19,6 +19,9 @@ This project automates the end-to-end QA process of comparing media platform spe
 9. **Variance Calculation** – Spend differences (absolute and %) are calculated between Lumina/PPC and Platform/PPC.
 10. **Visualization** – The final dataset feeds a Power BI dashboard showing overall spend, market-level splits, mismatches, and records missing from either source.
 
+<img width="207" height="848" alt="image" src="https://github.com/user-attachments/assets/30fc11e0-075e-46b9-a746-a9df487fe09d" />
+
+
 ## Repository Structure
 
 ```
